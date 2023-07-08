@@ -32,19 +32,19 @@ Playwright HTML Report: <br />
 
 ## Allure Reports - Sample Screenshots
 
-![01](https://github.com/a5g/playwright-allure-demo/main/master/assets/01.png)
+![01](https://github.com/a5g/playwright-allure-demo/blob/main/assets/01.png)
 <br/>------------------------------------------------------------------<br/>
 
-![02](https://github.com/a5g/playwright-allure-demo/blob/master/assets/02.png)
+![02](https://github.com/a5g/playwright-allure-demo/blob/main/assets/02.png)
 <br/>------------------------------------------------------------------<br/>
 
-![03](https://github.com/a5g/playwright-allure-demo/blob/master/assets/03.png)
+![03](https://github.com/a5g/playwright-allure-demo/blob/main/assets/03.png)
 <br/>------------------------------------------------------------------<br/>
 
-![04](https://github.com/a5g/playwright-allure-demo/blob/master/assets/04.png)
+![04](https://github.com/a5g/playwright-allure-demo/blob/main/assets/04.png)
 <br/>------------------------------------------------------------------<br/>
 
-![05](https://github.com/a5g/playwright-allure-demo/blob/master/assets/05.png)
+![05](https://github.com/a5g/playwright-allure-demo/blob/main/assets/05.png)
 <br/>------------------------------------------------------------------<br/>
 
 ## Preferred Editor
