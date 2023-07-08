@@ -32,7 +32,7 @@ Playwright HTML Report: <br />
 
 ## Allure Reports - Sample Screenshots
 
-![01](https://github.com/a5g/playwright-allure-demo/blob/master/assets/01.png)
+![01](https://github.com/a5g/playwright-allure-demo/main/master/assets/01.png)
 <br/>------------------------------------------------------------------<br/>
 
 ![02](https://github.com/a5g/playwright-allure-demo/blob/master/assets/02.png)
